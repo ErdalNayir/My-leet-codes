@@ -1,5 +1,5 @@
 class Solution:
-    def sortedSquares(self, nums: List[int]) -> List[int]:
+    def sortedSquaress(self, nums: List[int]) -> List[int]:
         def merge(leftList,rightList):
             sortedArray=[]
             while len(leftList)>0 and len(rightList)>0:
