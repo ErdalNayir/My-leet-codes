@@ -1,5 +1,5 @@
 class Solution:
-    def twoSum(self, numbers: List[int], target: int) -> List[int]: 
+    def twoSums(self, numbers: List[int], target: int) -> List[int]: 
         
         firstIndex=0
         lastIndex=len(numbers)-1
